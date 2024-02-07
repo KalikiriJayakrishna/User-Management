@@ -1,0 +1,63 @@
+@charset "ISO-8859-1";
+
+#jk{
+    background-image: url(https://cdn.pixabay.com/photo/2022/01/02/22/06/couple-6911271_1280.png);
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    background-size: cover;
+}
+#jk2{
+   
+    background-image: url(https://cdn.pixabay.com/photo/2022/01/02/22/06/couple-6911271_1280.png);
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    background-size: cover;
+}
+#lk
+{
+	  
+   background-size: auto;
+   color: blue;
+   font-size: 20px;
+   text-align: center;
+}
+#lkl
+{
+	padding-top: 20vh; 
+   background-size: auto;
+   color: red;
+   font-size: 30px;
+   text-align: center;
+}
+#reg
+{
+	width:100px;
+	height:40px;
+	color:red;
+	 background-color:green;
+	 border-radius:5px;
+}
+#log:hover
+{
+	 color: orange;
+	 text-decoration: none;
+	 
+}
+#log1:hover
+{
+	 color: white;
+	 
+}
+#log2
+{
+	 color:red;	 
+	 
+}
+#in
+{
+	
+	height:50px;
+	color:red;	
+}
